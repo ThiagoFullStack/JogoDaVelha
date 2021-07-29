@@ -1,4 +1,4 @@
-# #💻o👵 Tic-Tac-Toe
+# #💻o👵 Jogo da Velha
 
 
 ![Welcome](./jogoDaVelha.png?raw=true)
