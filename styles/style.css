@@ -1,0 +1,52 @@
+body{
+  text-align: center;
+}
+h1{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.square{
+  width: 100px;
+  height: 100px;
+  background-color: beige;
+  border: 1px solid gray;
+  display: inline-block;
+}
+.o{
+  position: relative;
+}
+.o::after{
+  position: absolute;
+  content: '\1F436';
+  font-size: 50px;
+  /* altura da minha linha 100px pq? é altura do meu quadrado */
+  line-height: 100px; 
+  /* isso serve para centralizar imagem */
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+.x{
+  position: relative;
+}
+.x::after{
+  position: absolute;
+  content: '\1F431';
+  font-size: 50px;
+  /* altura da minha linha 100px pq? é altura do meu quadrado */
+  line-height: 100px; 
+  /* isso serve para centralizar imagem */
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+#reset{
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 27px;
+  background-color: #e63b1c;
+  color: white;
+  border: none;
+  border-radius: 7px;
+}
