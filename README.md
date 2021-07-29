@@ -3,7 +3,7 @@
 
 ![Welcome](./jogoDaVelha.png?raw=true)
 
-📋 This project is the source code made by Visual Studio code where I commit to Github to upload to Vercel, available at:  - [vercel.com (https://vercel.com/)] Access the site ➡ ( https://churrascometro-br.vercel.app/ )
+📋 This project is the source code made by Visual Studio code where I commit to Github to upload to Vercel, available at:  - [vercel.com (https://vercel.com/)] Access the site ➡ ( https://jogo-da-velha-beta.vercel.app/ )
 
 
 
